@@ -1,0 +1,10 @@
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\bin\Release\EmpaqueFinal.exe.config
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\bin\Release\EmpaqueFinal.exe
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\bin\Release\EmpaqueFinal.pdb
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.ComprobarSerial_CajaU.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.Mantenimiento.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.WorkOrder.resources
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.exe
+C:\Users\leonel.valle\source\repos\MWTrace_beta\EmpaqueFinal\obj\Release\EmpaqueFinal.pdb

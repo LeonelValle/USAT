@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Modelo" msprop:Generator_ColumnVarNameInTable="columnModelo" msprop:Generator_ColumnPropNameInRow="Modelo" msprop:Generator_ColumnPropNameInTable="ModeloColumn" msprop:Generator_UserColumnName="Modelo" type="xs:string" minOccurs="0" />
+              <xs:element name="SIM" msprop:Generator_ColumnVarNameInTable="columnSIM" msprop:Generator_ColumnPropNameInRow="SIM" msprop:Generator_ColumnPropNameInTable="SIMColumn" msprop:Generator_UserColumnName="SIM" type="xs:string" minOccurs="0" />
+              <xs:element name="SerialNumber" msprop:Generator_ColumnVarNameInTable="columnSerialNumber" msprop:Generator_ColumnPropNameInRow="SerialNumber" msprop:Generator_ColumnPropNameInTable="SerialNumberColumn" msprop:Generator_UserColumnName="SerialNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="ScanModem" msprop:Generator_ColumnVarNameInTable="columnScanModem" msprop:Generator_ColumnPropNameInRow="ScanModem" msprop:Generator_ColumnPropNameInTable="ScanModemColumn" msprop:Generator_UserColumnName="ScanModem" type="xs:string" minOccurs="0" />
+              <xs:element name="ScanSim" msprop:Generator_ColumnVarNameInTable="columnScanSim" msprop:Generator_ColumnPropNameInRow="ScanSim" msprop:Generator_ColumnPropNameInTable="ScanSimColumn" msprop:Generator_UserColumnName="ScanSim" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaRegistro" msprop:Generator_ColumnVarNameInTable="columnFechaRegistro" msprop:Generator_ColumnPropNameInRow="FechaRegistro" msprop:Generator_ColumnPropNameInTable="FechaRegistroColumn" msprop:Generator_UserColumnName="FechaRegistro" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Orden" msprop:Generator_ColumnVarNameInTable="columnOrden" msprop:Generator_ColumnPropNameInRow="Orden" msprop:Generator_ColumnPropNameInTable="OrdenColumn" msprop:Generator_UserColumnName="Orden" type="xs:string" minOccurs="0" />
+              <xs:element name="ModeloPCB" msprop:Generator_ColumnVarNameInTable="columnModeloPCB" msprop:Generator_ColumnPropNameInRow="ModeloPCB" msprop:Generator_ColumnPropNameInTable="ModeloPCBColumn" msprop:Generator_UserColumnName="ModeloPCB" type="xs:string" minOccurs="0" />
+              <xs:element name="Revision" msprop:Generator_ColumnVarNameInTable="columnRevision" msprop:Generator_ColumnPropNameInRow="Revision" msprop:Generator_ColumnPropNameInTable="RevisionColumn" msprop:Generator_UserColumnName="Revision" type="xs:string" minOccurs="0" />
+              <xs:element name="RevisionFirmware" msprop:Generator_ColumnVarNameInTable="columnRevisionFirmware" msprop:Generator_ColumnPropNameInRow="RevisionFirmware" msprop:Generator_ColumnPropNameInTable="RevisionFirmwareColumn" msprop:Generator_UserColumnName="RevisionFirmware" type="xs:string" minOccurs="0" />
+              <xs:element name="Caja" msprop:Generator_ColumnVarNameInTable="columnCaja" msprop:Generator_ColumnPropNameInRow="Caja" msprop:Generator_ColumnPropNameInTable="CajaColumn" msprop:Generator_UserColumnName="Caja" type="xs:string" minOccurs="0" />
+              <xs:element name="Pallette" msprop:Generator_ColumnVarNameInTable="columnPallette" msprop:Generator_ColumnPropNameInRow="Pallette" msprop:Generator_ColumnPropNameInTable="PalletteColumn" msprop:Generator_UserColumnName="Pallette" type="xs:string" minOccurs="0" />
+              <xs:element name="NumeroEmpleado" msprop:Generator_ColumnVarNameInTable="columnNumeroEmpleado" msprop:Generator_ColumnPropNameInRow="NumeroEmpleado" msprop:Generator_ColumnPropNameInTable="NumeroEmpleadoColumn" msprop:Generator_UserColumnName="NumeroEmpleado" type="xs:string" minOccurs="0" />
+              <xs:element name="id_modeloOrden" msprop:Generator_ColumnVarNameInTable="columnid_modeloOrden" msprop:Generator_ColumnPropNameInRow="id_modeloOrden" msprop:Generator_ColumnPropNameInTable="id_modeloOrdenColumn" msprop:Generator_UserColumnName="id_modeloOrden" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
